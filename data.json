@@ -1,0 +1,49 @@
+{
+	"basicdetails":{
+		"image":"Hydrangeas.jpg",
+		"name":"ch.sridevi",
+		"email":"sridevichalla@gmail.com",
+		"phone":"8464816722",
+		"address":"3-19,guntur (district)"
+	},
+"education":[
+	{
+		"course":"B.tech(c.s.e)",
+		"college":"vignan nirula college",
+		"percentage":"70%"
+	},
+	{
+		"course":"Intermediate(M.P.C)",
+		"college":"srichaintanya junior college",
+		"percentage":"85%"
+	},
+	{
+		"course":"SSC",
+		"college":"naveena vidhyanikethan",
+		"percentage":"80%"
+	}
+],
+"skills":[
+{
+	"name":"Operating system",
+	"value":"Windows,Linux,MAC"
+},
+{
+	"name":"Programing Languages",
+	"value":"C,C++,Java,Python"
+}
+],
+"carrier":{
+	"ca":"I am used my skills for developing my organization and i obey the organization rules and take my responsibility end of my working days"
+},
+"Achevements":[
+	                 "I get first prize in chess compitition in my college.",
+	                 "I get second prize in tech summit in mumbai.",
+	                 "I get first prize in powerpoint presentation."
+],
+"Description":
+{
+	"des":"i am used my skills for developing my organization and i obey the organization rules and take my responsibility end of my working days"
+
+}
+}
